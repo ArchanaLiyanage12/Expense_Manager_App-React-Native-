@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148269276907",
+    "project_id": "poc-expense-tracker-app",
+    "storage_bucket": "poc-expense-tracker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148269276907:android:df9b782559a30adfc668ae",
+        "android_client_info": {
+          "package_name": "com.poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148269276907-3q3mdkh15lb7c7do9oonk9b67sgfulba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poc",
+            "certificate_hash": "901ef5b4ec39e78dc99e2810332e04eca6de9be0"
+          }
+        },
+        {
+          "client_id": "148269276907-1v5gb8bl92s8pogoa1qrtvh9v8cjcqrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bYSLH09jXPS2iHgh2Nyq-iMQtnXi9fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148269276907-1v5gb8bl92s8pogoa1qrtvh9v8cjcqrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
